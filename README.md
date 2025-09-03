@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Harsha 👋
 
-🎓 I'm a Master's student in Computer Science at Rutgers University with 2+ years of prior industry experience.  
+🎓 I'm a Master's student in Computer Science at Rutgers University with 3 years of prior industry experience as a Software Engineer.  
 💡 Passionate about backend systems, cloud computing, and AI-driven solutions.  
 🚀 I enjoy building scalable software systems, experimenting with intelligent automation, and turning ideas into impactful projects.  
 
