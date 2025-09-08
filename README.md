@@ -58,6 +58,8 @@
 
 ## 🛠️ Skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha148&hide=Jupyter%20Notebook)](https://github.com/harsha148/github-readme-stats)
+
 **Languages:** Python, Java, C++, JavaScript, TypeScript, C#  
 **Frameworks & Tools:** Spring Boot, Django, FastAPI, Flask, React, Next.js, LangChain, DeepAgents, Rasa  
 **Cloud & DevOps:** Google Cloud Platform, AWS, Docker, Kubernetes, Jenkins, GitHub Actions  
